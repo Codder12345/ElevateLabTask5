@@ -22,6 +22,7 @@ Simulate basic banking operations (deposit, withdraw, interest, transaction hist
 - Eclipes IDE/ Terminal
 
 ## Example Output
+```
  Enter AcountHolderNAme  AcountNumber  and interest of rate 
 pooja 
 236ghgf
@@ -39,3 +40,4 @@ Deposited: ₹5000.0
 Withdrew: ₹1500.0
 Deposited: ₹140.0
 Interest applied: ₹140.0
+```
